@@ -18,7 +18,7 @@ Features
 
 Working monitors
 -------------
-They're here: https://travcorp.github.io/dramasquats
+They're here: https://travcorp.github.io/DramaSquats
 (use your own TeamCity credentials or the [shared ones](http://ttcwiki/display/itropics/Passwords+to+the+build+infrastructure#Passwordstothebuildinfrastructure-teamcitysharedaccount))
 
 Hacking the monitors:
