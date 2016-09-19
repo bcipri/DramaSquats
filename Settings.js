@@ -17,7 +17,11 @@
                     "develop",
                     "refs/heads/develop"
                 ].indexOf(branch.name) > -1
-            )           
+            )
+           && (
+           	branch.buildType.name.indexOf("Delete stack") === -1
+           	||  !!branch.name
+           ) 
         );
     },
 };
